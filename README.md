@@ -1,16 +1,39 @@
-### 얼레벌레👋
 
+
+## 🐍WHaP
+Work Hard and Prove.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDE-hyelin&count_bg=%23FFBAAD&title_bg=%23F3EDEC&icon=applemusic.svg&icon_color=%23ED8777&title=remember+me+%F0%9F%92%95&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://img.shields.io/badge/depromeet-blue?style=round-square"/>
+### 📽 Career
+
+🎓 MJCD | Myeongji College Communication Design. (17.02~19.02)
+
+<a href="https://www.depromeet.com/">🎓 KKUVD</a> | Konkuk Univ. Glocal Campus Visual Design. (20.03~22.02)
+
+💉lameditech | UI Designer. (22.02~)
+
+<a href="https://www.depromeet.com/">🚎 Depromeet 11th</a> | 1team(Antoon🐜) Designer. (22.03~)
 
 
-얼레벌레
 
-안녕하세용.
 
-디자이너 이혜린입니다.
+
+### 👩🏻‍💻Design Tool
+
+<img src="https://img.shields.io/badge/figma-F67356?style=round-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Sketch-F59E00?style=round-square&logo=Sketch&logoColor=white"/>
+
+
+
+<img src="https://img.shields.io/badge/Adobe-black?style=round-square&logo=Adobe&logoColor=white"/> <img src="https://img.shields.io/badge/XD-F046E6?style=round-square&logo=Adobe XD&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-2A98F5?style=round-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=round-square&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Indesign-FF3366?style=round-square&logo=Adobe Indesign&logoColor=white"/> <img src="https://img.shields.io/badge/After Effects-9999FF?style=round-square&logo=Adobe After Effects&logoColor=white"/> <img src="https://img.shields.io/badge/Dreamweaver-FF61F6?style=round-square&logo=Adobe Dreamweaver&logoColor=white"/>
+
+
+
+### 👋
+
+<b>안녕하세용.
+
+디자이너 이혜린입니다.</b>
 
 제가 왜 갑자기... github 계정을 만들었냐면요.
 
@@ -23,6 +46,10 @@
 과연 제가 언제까지 헛짓거리를 하게 될지 저도 궁금하네요.
 
 음... 암튼 그렇습니다. 감사합니다.
+
+### 📫 How to reach me
+https://www.instagram.com/xxhyxin/
+
 
 <!-----------------------------------------------------------------------------------------------------------------------
 **DE-hyelin/DE-hyelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
