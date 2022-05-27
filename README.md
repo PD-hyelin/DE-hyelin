@@ -1,8 +1,7 @@
 ### 얼레벌레👋
 
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDE-hyelin&count_bg=%23FFBAAD&title_bg=%23EBE2E0&icon=figma.svg&icon_color=%23F36E5A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDE-hyelin&count_bg=%23FFBAAD&title_bg=%23F3EDEC&icon=applemusic.svg&icon_color=%23ED8777&title=remember+me+%F0%9F%92%95&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
