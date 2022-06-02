@@ -10,13 +10,13 @@ Work Hard and Prove.
 
 ### 📽 Career
 
-*17.02~19.02* **🎓 MJCD** | Myeongji College Communication Design.
-
-*20.03~22.02* **<a href="https://www.depromeet.com/">🎓 KKUVD</a>** | Konkuk Univ. Glocal Campus Visual Design.
+*22.03~22.07* **<a href="https://www.depromeet.com/">🚎 Depromeet 11th</a>** | 1team(Antoon🐜) Designer.
 
 *22.02~* **💉lameditech** | UI Designer.
 
-*22.03~22.07* **<a href="https://www.depromeet.com/">🚎 Depromeet 11th</a>** | 1team(Antoon🐜) Designer.
+*20.03~22.02* **<a href="https://www.depromeet.com/">🎓 KKUVD</a>** | Konkuk Univ. Glocal Campus Visual Design.
+
+*17.02~19.02* **🎓 MJCD** | Myeongji College Communication Design.
 
 
 <br>
