@@ -10,6 +10,21 @@ Work Hard and Prove.
 
 ### 📽 Career
 
+# ANTOON CORE API
+> 앙투앙~! 개미는 오늘도 열심히 툰툰!
+
+### 😉 프로젝트 소개
+```
+내 취향과 맞는 웹툰은 뭘까? 이런 고민을 하는 당신에게!
+나와 비슷한 취향을 가진 사람들이 어떤 웹툰을 보는지
+내가 좋아하는 웹툰은 무엇인지
+
+앙투앙을 통해 취향을 공유해요!!!
+```
+
+![main gif](/src/main/resources/static/main.gif)
+
+
 *22.03~22.07* **<a href="https://www.depromeet.com/">🚎 Depromeet 11th</a>** | 1team(Antoon🐜) Designer.
 
 *22.02~* **💉lameditech** | UI Designer.
