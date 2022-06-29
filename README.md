@@ -3,12 +3,15 @@
 ## 🐍WHaP
 Work Hard and Prove.
 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDE-hyelin&count_bg=%23FFBAAD&title_bg=%23F3EDEC&icon=applemusic.svg&icon_color=%23ED8777&title=remember+me+%F0%9F%92%95&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <br>
 
 ### 📽 Career
+
+<img src="https://raw.githubusercontent.com/depromeet/antoon-api/staging/src/main/resources/static/main.gif" loading="lazy">
 
 # ANTOON CORE API
 > 앙투앙~! 개미는 오늘도 열심히 툰툰!
@@ -21,8 +24,6 @@ Work Hard and Prove.
 
 앙투앙을 통해 취향을 공유해요!!!
 ```
-
-https://github.com/depromeet/antoon-api/raw/staging/src/main/resources/static/main.gif
 
 *22.03~22.07* **<a href="https://www.depromeet.com/">🚎 Depromeet 11th</a>** | 1team(Antoon🐜) Designer.
 
