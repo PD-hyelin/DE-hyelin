@@ -13,8 +13,7 @@ Work Hard and Prove.
 
 <img src="https://raw.githubusercontent.com/depromeet/antoon-api/staging/src/main/resources/static/main.gif" loading="lazy">
 
-# ANTOON CORE API
-> 앙투앙~! 개미는 오늘도 열심히 툰툰!
+> 앙투앙~! 개미는(툰툰) 오늘도(툰툰)
 
 ### 😉 프로젝트 소개
 ```
