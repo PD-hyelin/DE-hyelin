@@ -22,8 +22,7 @@ Work Hard and Prove.
 앙투앙을 통해 취향을 공유해요!!!
 ```
 
-![main gif](/src/main/resources/static/main.gif)
-
+https://github.com/depromeet/antoon-api/raw/staging/src/main/resources/static/main.gif
 
 *22.03~22.07* **<a href="https://www.depromeet.com/">🚎 Depromeet 11th</a>** | 1team(Antoon🐜) Designer.
 
