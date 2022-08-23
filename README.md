@@ -11,20 +11,21 @@ Work Hard and Prove.
 
 ### 📽 Career
 
-<img src="https://raw.githubusercontent.com/depromeet/antoon-api/staging/src/main/resources/static/main.gif" loading="lazy">
+<img src="https://www.depromeet.com/_next/image?url=%2Fimages%2Fprojects%2Fdetails%2F%EA%B0%9C%EB%AF%B8%EB%8A%94%ED%88%B0%ED%88%B0.png&w=2048&q=75" loading="lazy">
 
-> 앙투앙~! 개미는(툰툰) 오늘도(툰툰)
+> 개미는 툰툰 - 주식 용어로 즐기는 웹툰의 새로운 덕질 문화, 개미는 툰툰
 
 ### 😉 프로젝트 소개
 ```
-내 취향과 맞는 웹툰은 뭘까? 이런 고민을 하는 당신에게!
-나와 비슷한 취향을 가진 사람들이 어떤 웹툰을 보는지
-내가 좋아하는 웹툰은 무엇인지
+개미는 툰툰은 주식 컨셉을 바탕으로 웹툰의 새로운 덕질 문화를 만들고자 합니다.
 
-앙투앙을 통해 취향을 공유해요!!!
+평소 즐겨보는 웹툰의 재미있는 주제에 대한 투표
+웹툰 속 인물과 커플에 탑승과 하차
+다른 사람들과 소통할 수 있는 댓글 등
+재미있게 즐길 수 있는 다양한 콘텐츠와 기능을 제공합니다.
 ```
 
-*22.03~22.07* **<a href="https://www.depromeet.com/">🚎 Depromeet 11th</a>** | 1team(Antoon🐜) Designer.
+*22.03~22.07* **<a href="https://www.depromeet.com/">🚎 Depromeet 11th</a>** | 1team - **<a href="https://antoon.fun/">Antoon🐜</a>** Designer.
 
 *22.02~* **💉lameditech** | UI Designer.
 
@@ -51,17 +52,13 @@ Work Hard and Prove.
 
 디자이너 이혜린입니다.</b>
 
-제가 왜 갑자기... github 계정을 만들었냐면요.
+제가 왜 갑자기 github 계정을 만들었냐면요.
 
 우리 킹발자 퀸발자 분들과 친해지고 싶어서 입니다.
 
-그런데 이게 대체 뭔가요? 뭐라는 건가요? 내 인생에 커밋은 개구리 인형뿐이었는데...
+내 인생에 커밋은 개구리 인형뿐이었는데...
 
-지금 이 얼레벌레 글은 https://brunch.co.kr/@thswlsgh/2 이 브런치 글을 보면서 작성 중입니다.
-
-과연 제가 언제까지 헛짓거리를 하게 될지 저도 궁금하네요.
-
-음... 암튼 그렇습니다. 감사합니다.
+잘 부탁드립니다.
 
 <br>
 
