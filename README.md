@@ -13,7 +13,7 @@ Work Hard and Prove.
 
 <img src="https://www.depromeet.com/_next/image?url=%2Fimages%2Fprojects%2Fdetails%2F%EA%B0%9C%EB%AF%B8%EB%8A%94%ED%88%B0%ED%88%B0.png&w=2048&q=75" loading="lazy">
 
-> 개미는 툰툰 - 주식 용어로 즐기는 웹툰의 새로운 덕질 문화, 개미는 툰툰
+> 주식 용어로 즐기는 웹툰의 새로운 덕질 문화, 개미는 툰툰
 
 ### 😉 프로젝트 소개
 ```
