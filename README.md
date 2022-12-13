@@ -12,11 +12,11 @@ Work Hard and Prove.
 ### 📽 Career
 
 
-*20.10~ing* **🔍OFOM**(Survey Service) | Product Designer(mobile) - Design lead.
+*20.10~ing* **🔍OFOM**(Survey Service) | Product Designer(mobile) - Design part lead.
 
-*20.09~ing* **<a href="https://thepool.kr/">🏖the Pool</a>**(Metacognitive Learning Community) | Product Designer(mobile) - Design lead.
+*20.09~ing* **🏖the Pool</a>**(Metacognitive Learning Community) | Product Designer(mobile) - Design part lead.
 
-*22.03~22.07* **<a href="https://www.depromeet.com/">🚎 Depromeet 11th</a>** | 1team - **<a href="https://antoon.fun/">Antoon🐜</a>** Designer.
+*22.03~22.07* **<a href="https://www.depromeet.com/">🚎 Depromeet 11th</a>** | 1team - **<a href="https://antoon.fun/">Antoon🐜</a>** Product Design
 
 *22.02~22.10* **💉lameditech** | UI Designer.
 
