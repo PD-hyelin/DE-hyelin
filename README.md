@@ -13,27 +13,27 @@
 
 *23.01~ing* **🌐** | Product Designer.
 
-*22.02~22.10* **💉lameditech** | UI Designer.
+*22.02~22.10* **lameditech** | UI Designer.
 
 
 <br>
 
 ### 🎢 Activity
 
-*20.10~ing* **🔍OFOM**(Survey Service) | Product Designer(mobile) - Design part lead.
+*20.10~ing* **OFOM**(Survey Service) | Product Designer(mobile) - Design part lead.
 
-*20.09~ing* **🏖the Pool**(Metacognitive Learning Community) | Product Designer(mobile) - Design part lead.
+*20.09~ing* **the Pool**(Metacognitive Learning Community) | Product Designer(mobile) - Design part lead.
 
-*22.03~22.07* **<a href="https://www.depromeet.com/">🚎 Depromeet 11th</a>** | 1team - **<a href="https://antoon.fun/">Antoon🐜</a>** Product Design
+*22.03~22.07* **<a href="https://www.depromeet.com/">Depromeet 11th</a>** | 1team - **<a href="https://antoon.fun/">Antoon🐜</a>** Product Design
 
 
 <br>
 
 ### 🎓 Education
 
-*20.03~22.02* **🎓 KKUVD** | Konkuk Univ. Glocal Campus Visual Design.
+*20.03~22.02* **KKUVD** | Konkuk Univ. Glocal Campus Visual Design.
 
-*17.02~19.02* **🎓 MJCD** | Myeongji College Communication Design.
+*17.02~19.02* **MJCD** | Myeongji College Communication Design.
 
 
 <br>
