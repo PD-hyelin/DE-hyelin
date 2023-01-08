@@ -11,7 +11,7 @@
 
 ### 📽 Career
 
-*23.01~ing* **🌐** | Product Designer.
+*23.01~ing* **imweb** | Product Designer.
 
 *22.02~22.10* **lameditech** | UI Designer.
 
