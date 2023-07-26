@@ -11,7 +11,7 @@
 
 ### 📽 Career
 
-*23.01~ing* **imweb** | Product Designer.
+*23.01~23.07* **imweb** | Product Designer.
 
 *22.02~22.10* **lameditech** | UI Designer.
 
@@ -20,9 +20,11 @@
 
 ### 🎢 Activity
 
-*20.10~ing* **OFOM**(Survey Service) | Product Designer(mobile) - Design part lead.
+*22.03~22.07* **<a href="https://www.depromeet.com/">Depromeet 13th</a>** | 5team - **<a href="https://www.behance.net/gallery/175696753/Street-Drop-Location-based-music-community-services?tracking_source=search_projects|depromeet">Street Drop🐜</a>** Product Design - Team lead.
 
-*20.09~ing* **the Pool**(Metacognitive Learning Community) | Product Designer(mobile) - Design part lead.
+*22.10~22.12* **OFOM**(Survey Service) | Product Designer(mobile) - Design part lead.
+
+*22.09~22.03* **the Pool**(Metacognitive Learning Community) | Product Designer(mobile) - Design part lead.
 
 *22.03~22.07* **<a href="https://www.depromeet.com/">Depromeet 11th</a>** | 1team - **<a href="https://antoon.fun/">Antoon🐜</a>** Product Design
 
