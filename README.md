@@ -20,7 +20,7 @@
 
 ### 🎢 Activity
 
-*22.03~22.07* **<a href="https://www.depromeet.com/">Depromeet 13th</a>** | 5team - **<a href="https://www.behance.net/gallery/175696753/Street-Drop-Location-based-music-community-services?tracking_source=search_projects|depromeet">Street Drop🎵</a>** Product Design - Team lead.
+*22.03~22.07* **<a href="https://www.depromeet.com/">Depromeet 13th</a>** | 5team - **<a href="https://www.behance.net/gallery/175696753/Street-Drop-Location-based-music-community-services?tracking_source=search_projects|depromeet">Street Drop🎵</a>** Product Designer - Team lead.
 
 *22.10~22.12* **OFOM**(Survey Service) | Product Designer(mobile) - Design part lead.
 
