@@ -11,6 +11,8 @@
 
 ### 📽 Career
 
+*23.10~* **t'order** | Product Designer.
+
 *23.01~23.07* **imweb** | Product Designer.
 
 *22.02~22.10* **lameditech** | UI Designer.
