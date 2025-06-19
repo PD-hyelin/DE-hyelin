@@ -1,21 +1,15 @@
 
-
-## 👉 (a)ndesginer
-'and' is more important than 'end'.
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDE-hyelin&count_bg=%23FFBAAD&title_bg=%23F3EDEC&icon=applemusic.svg&icon_color=%23ED8777&title=remember+me+%F0%9F%92%95&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 <br>
 
 ### 📽 Career
 
-*23.10~* **t'order** | Product Designer.
+*25.06~* **🧡healing paper** | Product Designer.
 
-*23.01~23.07* **imweb** | Product Designer.
+*23.10~24.12* t'order | Product Designer.
 
-*22.02~22.10* **lameditech** | UI Designer.
+*23.01~23.07* imweb | Product Designer.
+
+*22.02~22.10* lameditech | UXUI Designer.
 
 
 <br>
@@ -43,9 +37,7 @@
 
 ### 👋
 
-<b>안녕하세요!
-
-디자이너 이혜린입니다.</b>
+<b>안녕하시렵니까</b>
 
 😻
 
@@ -53,6 +45,6 @@
 
 ##### 📫 How to reach me
 
-<a href="mailto:du.duck.917@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&style=square&logoColor=white&link=du.duck.917@gmail.com"/></a>
+<a href="mailto:pd.hyelinlee@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&style=square&logoColor=white&link=pd.hyelinlee@gmail.com"/></a>
 
