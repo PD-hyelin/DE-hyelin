@@ -9,8 +9,6 @@
 
 *23.01~23.07* imweb | Product Designer.
 
-*22.02~22.10* lameditech | UXUI Designer.
-
 
 <br>
 
