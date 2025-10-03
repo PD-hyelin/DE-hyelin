@@ -18,10 +18,6 @@
 
 *22.03~22.07* **<a href="https://www.depromeet.com/">Depromeet 13th</a>** | 5team - **<a href="https://www.behance.net/gallery/175696753/Street-Drop-Location-based-music-community-services?tracking_source=search_projects|depromeet">Street Drop🎵</a>** Product Designer - Team lead. **<a href="https://apps.apple.com/kr/app/%EC%8A%A4%ED%8A%B8%EB%A6%BF%EB%93%9C%EB%9E%8D-street-drop/id6450315928">(app store link)</a>**
 
-*22.10~22.12* **OFOM**(Survey Service) | Product Designer(mobile) - Design part lead.
-
-*22.09~22.03* **the Pool**(Metacognitive Learning Community) | Product Designer(mobile) - Design part lead.
-
 *22.03~22.07* **<a href="https://www.depromeet.com/">Depromeet 11th</a>** | 1team - **<a href="https://antoon.fun/">Antoon🐜</a>** Product Design
 
 
