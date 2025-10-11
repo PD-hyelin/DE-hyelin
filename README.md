@@ -18,22 +18,11 @@
 
 *22.03~22.07* **<a href="https://www.depromeet.com/">Depromeet 11th</a>** | 1team - **<a href="https://antoon.fun/">Antoon🐜</a>** Product Design
 
-
 <br>
-
-### 👩🏻‍💻Design Tool
-
-<img src="https://img.shields.io/badge/figma-F67356?style=round-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Sketch-F59E00?style=round-square&logo=Sketch&logoColor=white"/> <img src="https://img.shields.io/badge/XD-F046E6?style=round-square&logo=Adobe XD&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/Adobe-black?style=round-square&logo=Adobe&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-2A98F5?style=round-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=round-square&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Indesign-FF3366?style=round-square&logo=Adobe Indesign&logoColor=white"/> <img src="https://img.shields.io/badge/After Effects-9999FF?style=round-square&logo=Adobe After Effects&logoColor=white"/> <img src="https://img.shields.io/badge/Dreamweaver-FF61F6?style=round-square&logo=Adobe Dreamweaver&logoColor=white"/>
-
-<br><br>
 
 ### 👋
 
 <b>안녕하시렵니까</b>
-
-😻
 
 <br>
 
